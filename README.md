@@ -1,7 +1,5 @@
 # ¡Hola! 👋 Soy Maximiliano
 
-Soy Técnico Electromecánico y estudiante de Ingeniería Electromecánica (56% de la carrera aprobada).
-
 Actualmente estoy ampliando mi perfil hacia el desarrollo de software, aprendiendo Python, FastAPI y el desarrollo de APIs REST.
 
 ## 🚀 Tecnologías y herramientas
@@ -34,5 +32,5 @@ Co-Fundador de Patento, donde participo en:
 
 ## 📫 Contacto
 
-- LinkedIn: https://www.linkedin.com/in/almaxial
+- LinkedIn: https://linkedin.com/in/almaxial
 - GitHub: https://github.com/almaxia1
