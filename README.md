@@ -1,16 +1,38 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Maximiliano
 
-<!--
-**almaxial/almaxial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Técnico Electromecánico y estudiante de Ingeniería Electromecánica (56% de la carrera aprobada).
 
-Here are some ideas to get you started:
+Actualmente estoy ampliando mi perfil hacia el desarrollo de software, aprendiendo Python, FastAPI y el desarrollo de APIs REST.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías y herramientas
+
+- Python
+- FastAPI
+- Git y GitHub
+- HTTPX
+- Pytest
+- APIs REST
+
+## 💼 Experiencia
+
+Co-Fundador de Patento, donde participo en:
+
+- Implementación de software
+- Atención al cliente
+- Operaciones y finanzas
+- Relevamiento de necesidades del producto
+
+## 📌 Proyecto destacado
+
+- API de Cotizaciones: API desarrollada con FastAPI que consulta cotizaciones del dólar desde una API externa.
+
+## 🌱 Actualmente aprendiendo
+
+- Arquitectura de APIs
+- Testing automatizado
+- Buenas prácticas de desarrollo backend
+
+## 📫 Contacto
+
+- LinkedIn: https://www.linkedin.com/in/almaxial
+- GitHub: https://github.com/almaxia1
