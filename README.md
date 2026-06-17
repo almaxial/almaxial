@@ -33,4 +33,4 @@ Co-Fundador de Patento, donde participo en:
 ## 📫 Contacto
 
 - LinkedIn: https://linkedin.com/in/almaxial
-- GitHub: https://github.com/almaxia1
+- GitHub: https://github.com/almaxial
